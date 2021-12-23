@@ -1,0 +1,21 @@
+body
+{
+color:whitesmoke;
+background-color:thistle;
+}
+
+.heading
+{
+width: 80%;
+font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+color:seagreen;
+}
+
+#camera
+{
+border: 2px dashed black;
+}
